@@ -1,5 +1,6 @@
 import { useState } from "react";
 
+//ini berbau
 function FormTambah({ onAdd }) {
     const [title, setTitle] = useState("")
     const [note, setNotes] = useState("")
